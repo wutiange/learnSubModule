@@ -1,0 +1,3 @@
+[submodule "childModule01"]
+	path = childModule01
+	url = ./childModule01/.git
